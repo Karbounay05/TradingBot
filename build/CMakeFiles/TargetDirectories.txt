@@ -1,0 +1,3 @@
+/home/ahmed/mydocs/prt/TRader-Bot/build/CMakeFiles/trading_bot.dir
+/home/ahmed/mydocs/prt/TRader-Bot/build/CMakeFiles/edit_cache.dir
+/home/ahmed/mydocs/prt/TRader-Bot/build/CMakeFiles/rebuild_cache.dir

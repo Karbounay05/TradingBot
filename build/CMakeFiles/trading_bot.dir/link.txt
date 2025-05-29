@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/trading_bot.dir/core/main.cpp.o CMakeFiles/trading_bot.dir/core/strategy_bridge.cpp.o CMakeFiles/trading_bot.dir/core/trade_executor.cpp.o CMakeFiles/trading_bot.dir/core/market_data.cpp.o -o trading_bot  /usr/lib/x86_64-linux-gnu/libpython3.12.so 
