@@ -1,7 +1,7 @@
 # Trader Bot
 
 A simple trading bot implemented in C++ with embedded Python strategy support via `pybind11`.
-
+*
 ---
 
 ## Overview
